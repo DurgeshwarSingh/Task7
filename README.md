@@ -7,7 +7,7 @@ We can also do practical demonstration
 Browser Extension Security Check – Steps
 
 1. Open Extension/Add-ons Manager
-   Go to your browser’s menu (e.g., Chrome: chrome://extensions/, Firefox: about:addons/).
+   Go to your browser’s menu (e.g., Chrome: chrome://extensions/, Firefox: about:addons/ , edge://extensions/ ).
 
    <img width="739" height="93" alt="Screenshot From 2025-10-02 14-47-31" src="https://github.com/user-attachments/assets/1a5b7c16-12e2-4838-b22a-a792f5488bf7" />
 
